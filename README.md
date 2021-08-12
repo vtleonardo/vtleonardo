@@ -27,7 +27,7 @@
 
 **More about me:**
 
-- 🔭 I’m currently working on Brick Abode as a Devops, CI/CD and site reliability engineer.
+<!-- - 🔭 I’m currently working on Brick Abode as a Devops, CI/CD and site reliability engineer. -->
 - 🌱 I’m currently learning web development using rust with [Actix](https://actix.rs/) and web assembly.
 - 🤔 My interests are in computer vision, blockchains technologies and in rust web development.
 - 💬 Ask me about anything, I'll do my best to help you!
